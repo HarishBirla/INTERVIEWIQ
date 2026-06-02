@@ -143,7 +143,7 @@ CLIENT_URL=http://localhost:5173
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-interview-agent.git
+git clone https://github.com/HarishBirla/INTERVIEWIQ 
 cd ai-interview-agent
 ```
 
