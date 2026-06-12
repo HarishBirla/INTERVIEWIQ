@@ -1,4 +1,33 @@
-# AI Interview Agent
+<div align="center">
+
+# 🤖 AI Interview Agent
+
+### AI-Powered Interview Preparation Platform
+
+Practice Technical & HR interviews with AI-generated questions, resume analysis, and personalized feedback.
+
+<br>
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C73FE?style=for-the-badge&logo=razorpay&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-AI-blueviolet?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+
+</div>
+
+---
+
+ 
 
 An AI-powered Interview Preparation Platform built using the MERN Stack that helps users practice Technical and HR interviews through intelligent AI-generated questions, resume analysis, and personalized feedback.
 
